@@ -1,0 +1,9 @@
+../Core/Src/main.c:100:5:main	72	static
+../Core/Src/main.c:192:6:SystemClock_Config	96	static
+../Core/Src/main.c:242:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:277:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:311:6:BlinkGreenLed	16	static
+../Core/Src/main.c:323:6:UART_Sender	24	static
+../Core/Src/main.c:337:6:vUARTTask	80	static
+../Core/Src/main.c:388:6:StartDefaultTask	16	static
+../Core/Src/main.c:403:6:Error_Handler	4	static,ignoring_inline_asm
