@@ -21,7 +21,7 @@ This project demonstrates how to set up UART communication using interrupts on a
 
 1. **Clone the Repository:**
 
-    git clone https://github.com/yourusername/uart-freertos-stm32.git
+    git clone https://github.com/barkin-ergur/RTOS_App.git
 
 2. **Using STM32CubeProgrammer:**
 
